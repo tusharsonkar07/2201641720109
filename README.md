@@ -1,5 +1,5 @@
 # Frontend Assessment - URL Shortener
-A fully functional, responsive React URL Shortener application built for the AFFORDMED assessment.
+A fully functional, responsive React URL Shortener application built for the assessment.
 
 ![AFFORDMED URL Shortener Screenshot](https://drive.google.com/uc?export=view&id=1vAgdfJFDTqag_Nvni16cYvGmtZ8QiDtM),
 
@@ -9,7 +9,7 @@ A fully functional, responsive React URL Shortener application built for the AFF
 
 
 
-This repository contains the submission for the AFFORDMED frontend assessment - a React URL Shortener Web Application.
+This repository contains the submission for the frontend assessment - a React URL Shortener Web Application.
 
 ## Project Structure
 
@@ -31,7 +31,7 @@ A fully functional, responsive React URL Shortener application that provides:
 
 - **Frontend**: React with TypeScript
 - **Styling**: Material UI
-- **Logging**: Custom AFFORDMED logging middleware
+- **Logging**: Custom logging middleware
 - **Routing**: React Router for client-side navigation
 
 ## Setup Instructions
