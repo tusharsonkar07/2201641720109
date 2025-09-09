@@ -1,4 +1,4 @@
-# AFFORDMED URL Shortener - Frontend Application
+# URL Shortener - Frontend Application
 
 A fully functional, responsive React URL Shortener application built for the AFFORDMED assessment.
 
@@ -20,7 +20,7 @@ A fully functional, responsive React URL Shortener application built for the AFF
 
 ### ✅ Technical Features
 - **TypeScript**: Full type safety throughout the application
-- **Comprehensive Logging**: Extensive logging using AFFORDMED logging middleware
+- **Comprehensive Logging**: Extensive logging using logging middleware
 - **Local Storage**: Persistent data storage for URLs and statistics
 - **Mock Analytics**: Simulated click data with geographical information
 - **Component Architecture**: Well-structured, reusable React components
@@ -45,7 +45,7 @@ src/
 - **React 18** with TypeScript
 - **Material-UI (MUI)** for styling and components
 - **React Router** for client-side routing
-- **Custom Logging Middleware** for AFFORDMED compliance
+- **Custom Logging Middleware** for compliance
 - **Local Storage** for data persistence
 
 ## Installation & Setup
