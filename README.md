@@ -1,5 +1,10 @@
 # AFFORDMED Frontend Assessment - URL Shortener
-![AFFORDMED URL Shortener Screenshot](https://drive.google.com/uc?export=view&id=1vAgdfJFDTqag_Nvni16cYvGmtZ8QiDtM)
+![AFFORDMED URL Shortener Screenshot](https://drive.google.com/uc?export=view&id=1vAgdfJFDTqag_Nvni16cYvGmtZ8QiDtM),
+
+![Afformed ss](https://drive.google.com/uc?export=view&id=1kGrswdv4Re4tBWP61SIFWjsFaLvwXCsT),
+
+![Afformed Statistics ss](https://drive.google.com/uc?export=view&id=1HZ08JE776pD7dsf-iAGpgdH_xQqxaYY1)
+
 
 
 This repository contains the submission for the AFFORDMED frontend assessment - a React URL Shortener Web Application.
